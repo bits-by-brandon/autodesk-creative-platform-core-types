@@ -1,0 +1,8 @@
+{
+  "name": "autodesk-creative-platform-core-types",
+  "version": "0.1.0",
+  "description": "Types for the Autodesk Creative Platform Core",
+  "types": "index.d.ts",
+  "author": "Brandon Chang",
+  "license": "ISC"
+}
